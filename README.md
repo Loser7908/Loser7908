@@ -39,17 +39,7 @@
 
 ---
 
-### 🧪 Featured Projects
 
-🔹 **[Minati — Clothing E-Commerce Platform](https://github.com/Loser7908/Minati)**  
-Full-stack web app using React, Node.js, and MongoDB.  
-Implemented authentication, order management, and caching for performance.
-
-🔹 **Agentic Linux Command Generation System**  
-AI-powered tool that converts natural language into executable Bash commands.  
-Integrated with **Model Context Protocol (MCP)** for secure command execution.
-
----
 
 ### 🎓 Education
 - **B.Tech in Computer Science and Engineering** — Techno India University (2024)  
